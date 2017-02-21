@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	depa "github.com/caesarxuchao/depa/main"
-	depb "github.com/caesarxuchao/depb/main"
+	depa "github.com/caesarxuchao/depa"
+	depb "github.com/caesarxuchao/depb"
 )
 
 func main() {
@@ -13,3 +13,4 @@ func main() {
 
 var x depa.A
 var y depb.B
+var z depb.BNEW
