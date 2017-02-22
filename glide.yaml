@@ -1,6 +1,6 @@
 package: github.com/caesarxuchao/deptest
 import:
 - package: github.com/caesarxuchao/depa
-  version: 52613db5d3442b49777ae6a2a404a730c5e314be
+  version: 03386e273dadfc65bf4c0d149a09f4d08c4e2054
 - package: github.com/caesarxuchao/depb
-  version: >= v2.0.0
+  version: ">= v2.0.0"
